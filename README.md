@@ -6,19 +6,17 @@
 
 ### 🚀 B.Tech CSE Student • Software Developer • Cybersecurity Learner • Open-Source Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+real+projects%2C+not+just+tutorials.;Software+Engineering+%7C+Cybersecurity+%7C+AI;Exploring+Linux%2C+Backend%2C+Cloud+%26+Open+Source.;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+real+projects%2C+not+just+tutorials.;Software+Engineering+%7C+Cybersecurity+%7C+AI;Exploring+Linux%2C+Backend%2C+Cloud+%26+Open+Source.;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
-<a href="https://github.com/samirlevate8788-creator">
-  <img src="https://img.shields.io/badge/GitHub-samirlevate8788--creator-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://samirlevate8788-creator.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/samir-levate/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/samirlevate8788-creator"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://samirlevate8788-creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samir-levate/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/terminal.svg" width="850" alt="Developer terminal animation" />
 
 </div>
 
@@ -30,9 +28,9 @@ I'm a **B.Tech Computer Science & Engineering student** who learns by building.
 
 - 🔭 Currently building: **AstraOS, AegisOne, SecureCheck & my personal portfolio**
 - 💻 Interested in: **Software Engineering, Cybersecurity, AI & Open Source**
-- 🐧 Comfortable exploring: **Linux, Git/GitHub, backend APIs and developer tooling**
-- 🧠 Currently improving: **DSA, System Design, Backend Development, Cloud & AI/ML**
-- 🤝 Open to: **Open-source collaboration, interesting software projects and learning opportunities**
+- 🐧 Exploring: **Linux, Git/GitHub, backend APIs and developer tooling**
+- 🧠 Improving: **DSA, System Design, Backend Development, Cloud & AI/ML**
+- 🤝 Open to: **Open-source collaboration and interesting software projects**
 - ⚡ Philosophy: **Build → Break → Debug → Learn → Ship**
 
 ---
@@ -41,11 +39,11 @@ I'm a **B.Tech Computer Science & Engineering student** who learns by building.
 
 | Project | What I'm building |
 |---|---|
-| 🪐 **AstraOS** | An educational open-source operating-system project focused on learning how modern OS concepts fit together. |
-| 🛡️ **AegisOne** | An AI-powered cybersecurity & digital-risk platform with a FastAPI backend and risk-analysis components. |
-| 🔐 **SecureCheck** | A security-focused project for analyzing password/security-related risks. |
-| 🌐 **Personal Portfolio** | A responsive developer portfolio showcasing projects, skills, certifications and experience. |
-| 🛰️ **Mini Network Scanner** | A Python/Linux networking project for learning network discovery and scanning concepts. |
+| 🪐 **AstraOS** | Educational open-source operating-system project. |
+| 🛡️ **AegisOne** | AI-powered cybersecurity & digital-risk platform with a FastAPI backend. |
+| 🔐 **SecureCheck** | Security-focused password/risk analysis project. |
+| 🌐 **Personal Portfolio** | Responsive developer portfolio for projects, skills and certifications. |
+| 🛰️ **Mini Network Scanner** | Python/Linux project for learning network discovery and scanning concepts. |
 
 ---
 
@@ -82,12 +80,21 @@ I'm a **B.Tech Computer Science & Engineering student** who learns by building.
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=samirlevate8788-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirlevate8788-creator&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=samirlevate8788-creator&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -131,22 +138,14 @@ Open Source            ████████████░░░░░░  B
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samir-levate/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://samirlevate8788-creator.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:sameerlewate8788@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/samir-levate/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://samirlevate8788-creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:sameerlewate8788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=samirlevate8788-creator&style=for-the-badge&color=blue" alt="Profile views" />
 
-### ⭐ If you find my projects interesting, feel free to explore the repositories!
+### ⭐ Explore my repositories and projects!
 
 </div>
-
-<!-- ===================== END ===================== -->
