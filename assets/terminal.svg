@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+  <rect width="900" height="430" rx="18" fill="#0d1117"/>
+  <rect x="0" y="0" width="900" height="48" rx="18" fill="#161b22"/>
+  <circle cx="24" cy="24" r="7" fill="#ff5f56"/>
+  <circle cx="48" cy="24" r="7" fill="#ffbd2e"/>
+  <circle cx="72" cy="24" r="7" fill="#27c93f"/>
+  <text x="100" y="30" fill="#8b949e" font-family="monospace" font-size="15">samir@dev-terminal ~</text>
+
+  <text x="32" y="86" fill="#58a6ff" font-family="monospace" font-size="17">$ whoami</text>
+  <text x="32" y="114" fill="#c9d1d9" font-family="monospace" font-size="17">Samir Levate — B.Tech CSE Developer</text>
+
+  <text x="32" y="158" fill="#58a6ff" font-family="monospace" font-size="17">$ ./current-focus.sh</text>
+  <text x="32" y="190" fill="#7ee787" font-family="monospace" font-size="17">→ Software Engineering</text>
+  <text x="32" y="218" fill="#7ee787" font-family="monospace" font-size="17">→ Cybersecurity &amp; Linux</text>
+  <text x="32" y="246" fill="#7ee787" font-family="monospace" font-size="17">→ Backend &amp; APIs</text>
+  <text x="32" y="274" fill="#7ee787" font-family="monospace" font-size="17">→ AI / ML &amp; Open Source</text>
+
+  <text x="32" y="318" fill="#58a6ff" font-family="monospace" font-size="17">$ projects --active</text>
+  <text x="32" y="346" fill="#c9d1d9" font-family="monospace" font-size="17">AstraOS • AegisOne • SecureCheck</text>
+
+  <text x="32" y="392" fill="#8b949e" font-family="monospace" font-size="16">Build → Break → Debug → Learn → Ship</text>
+
+  <rect x="675" y="83" width="3" height="28" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
