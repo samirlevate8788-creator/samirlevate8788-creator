@@ -23,9 +23,9 @@
   <text x="51" y="151" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ whoami</text>
   <text x="208" y="151" fill="#e2f4ee" font-family="Consolas,Monaco,monospace" font-size="17">Samir Levate  /  CSE student · developer · builder</text>
   <text x="51" y="203" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ cat focus.txt</text>
-  <text x="208" y="203" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">Python · web apps · Linux · defensive security · open source</text>
+  <text x="208" y="203" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">Python · web · Linux · defensive security · open source</text>
   <text x="51" y="255" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ scope --policy</text>
-  <text x="208" y="255" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">authorized labs only · responsible disclosure · document clearly</text>
+  <text x="208" y="255" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">authorized labs only · permission first · document work</text>
   <text x="51" y="307" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ git status --short</text>
   <text x="252" y="307" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">AegisOne · AstraOS · Cricket Universe</text>
   <text x="51" y="359" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ printf "build · learn · secure · share"</text>
