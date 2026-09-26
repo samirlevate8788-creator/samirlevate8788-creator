@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/samir-levate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/samirlevate8788-creator?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 
-<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/terminal.svg" width="780" alt="Neon terminal showing Samir’s ethical security focus and project status" />
+<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/cyber-dashboard.svg" width="780" alt="Neon terminal showing Samir’s ethical security focus and project status" />
 
 <table>
   <tr>
