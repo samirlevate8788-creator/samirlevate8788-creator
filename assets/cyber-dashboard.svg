@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Samir Levate cyber operations profile terminal</title>
+  <desc id="desc">An animated cyber-themed profile dashboard: terminal commands, an ethical security radar, learning focus, and project roadmap. The radar is a visual design, not live network telemetry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#03080c"/><stop offset=".58" stop-color="#071512"/><stop offset="1" stop-color="#071321"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07110f"/><stop offset="1" stop-color="#091821"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38f58a" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="radarClip"><circle cx="994" cy="253" r="104"/></clipPath>
+    <clipPath id="tickerClip"><rect x="31" y="432" width="1138" height="24" rx="5"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="468" rx="18" fill="url(#bg)" stroke="#31ef91" stroke-opacity=".78" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="466" rx="17" fill="url(#grid)"/>
+  <path d="M2 54H1198" stroke="#31ef91" stroke-opacity=".44"/>
+  <circle cx="28" cy="28" r="7" fill="#ff5f57"/><circle cx="52" cy="28" r="7" fill="#ffbd2e"/><circle cx="76" cy="28" r="7" fill="#24e88a"/>
+  <text x="105" y="34" fill="#b4d5ca" font-family="Consolas,Monaco,monospace" font-size="16">samir@github:~$ ./profile-dashboard --ethical-mode</text>
+  <text x="1165" y="34" fill="#46f59b" font-family="Consolas,Monaco,monospace" font-size="12" text-anchor="end">PROFILE BUILD 01 · DEMO</text>
+  <rect x="27" y="75" width="750" height="345" rx="12" fill="url(#panel)" stroke="#28df82" stroke-opacity=".55"/>
+  <path d="M28 112H776" stroke="#28df82" stroke-opacity=".34"/>
+  <text x="49" y="101" fill="#61efa2" font-family="Consolas,Monaco,monospace" font-size="14">TERMINAL / PROFILE STATUS</text>
+  <circle cx="746" cy="94" r="4" fill="#38f58a"><animate attributeName="opacity" values="1;.28;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="730" y="99" fill="#87a99d" font-family="Consolas,Monaco,monospace" font-size="11" text-anchor="end">ONLINE LEARNING</text>
+  <text x="51" y="151" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ whoami</text>
+  <text x="208" y="151" fill="#e2f4ee" font-family="Consolas,Monaco,monospace" font-size="17">Samir Levate  /  CSE student · developer · builder</text>
+  <text x="51" y="203" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ cat focus.txt</text>
+  <text x="208" y="203" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">Python · web · Linux · defensive security · open source</text>
+  <text x="51" y="255" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ scope --policy</text>
+  <text x="208" y="255" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">authorized labs only · permission first · document work</text>
+  <text x="51" y="307" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ git status --short</text>
+  <text x="252" y="307" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="17">AegisOne · AstraOS · Cricket Universe</text>
+  <text x="51" y="359" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="17">$ printf "build · learn · secure · share"</text>
+  <text x="51" y="397" fill="#6fd6a2" font-family="Consolas,Monaco,monospace" font-size="14">samir@github:~$</text>
+  <rect x="210" y="379" width="10" height="22" rx="1" fill="#42f59b"><animate attributeName="opacity" values="1;.12;1" dur="1.05s" repeatCount="indefinite"/></rect>
+  <path d="M40 119H763" stroke="#54ffad" stroke-opacity=".12"><animate attributeName="d" values="M40 119H763;M40 410H763;M40 119H763" dur="9s" repeatCount="indefinite"/></path>
+  <rect x="795" y="75" width="378" height="345" rx="12" fill="url(#panel)" stroke="#28df82" stroke-opacity=".55"/>
+  <text x="817" y="101" fill="#61efa2" font-family="Consolas,Monaco,monospace" font-size="14">AUTHORIZED LAB / SCOPE</text>
+  <circle cx="994" cy="253" r="105" fill="#06100f" stroke="#38e88d" stroke-opacity=".75"/>
+  <g clip-path="url(#radarClip)">
+    <path d="M889 253H1099M994 148V358M920 179L1068 327M1068 179L920 327" stroke="#41dc8d" stroke-opacity=".22"/>
+    <circle cx="994" cy="253" r="78" fill="none" stroke="#41dc8d" stroke-opacity=".31"/>
+    <circle cx="994" cy="253" r="51" fill="none" stroke="#41dc8d" stroke-opacity=".32"/>
+    <circle cx="994" cy="253" r="24" fill="none" stroke="#41dc8d" stroke-opacity=".36"/>
+    <path d="M994 253L994 148A105 105 0 0 1 1070 181Z" fill="#30f58b" fill-opacity=".11"/>
+    <path d="M994 253L994 148" stroke="#4cf7a1" stroke-width="2" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 994 253" to="360 994 253" dur="8s" repeatCount="indefinite"/></path>
+    <circle cx="1028" cy="213" r="4" fill="#67ffae" filter="url(#glow)"><animate attributeName="opacity" values=".25;1;.25" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="962" cy="273" r="3.5" fill="#67ffae" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1011" cy="301" r="3" fill="#43bcff"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle cx="994" cy="253" r="4" fill="#bcffd7" filter="url(#glow)"/>
+  <text x="994" y="378" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="12" text-anchor="middle">VISUAL DEMO · NOT LIVE NETWORK DATA</text>
+  <rect x="816" y="390" width="335" height="1" fill="#31ef91" fill-opacity=".3"/>
+  <text x="817" y="408" fill="#56d996" font-family="Consolas,Monaco,monospace" font-size="11">RULE: TEST ONLY WITH EXPLICIT PERMISSION</text>
+  <rect x="31" y="432" width="1138" height="24" rx="5" fill="#07110f" stroke="#2b9f69" stroke-opacity=".35"/>
+  <g clip-path="url(#tickerClip)"><text y="449" fill="#5ee69b" font-family="Consolas,Monaco,monospace" font-size="12"><animate attributeName="x" values="1180;-700" dur="19s" repeatCount="indefinite"/>BUILD • LEARN • SECURE • SHARE • PYTHON • WEB • LINUX • OPEN SOURCE • RESPONSIBLE SECURITY • BUILD • LEARN • SECURE • SHARE</text></g>
+</svg>
