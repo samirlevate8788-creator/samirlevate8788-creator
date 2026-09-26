@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/samir-levate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/samirlevate8788-creator?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 
+<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/terminal.svg" width="780" alt="Neon terminal showing Samir’s ethical security focus and project status" />
+
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/samir-github-profile.jpg" width="230" alt="Samir's GitHub profile portrait" /></td>
@@ -26,13 +28,13 @@
 
 ---
 
-## About
+## `whoami`
 
 I’m a B.Tech Computer Science & Engineering student who enjoys turning what I learn into useful, documented projects. My interests include software engineering, web development, defensive cybersecurity, AI, Linux and systems, and open source.
 
 **Current approach:** learn a concept → build a small version → test and debug it → document what I learned.
 
-## Animated project showcase
+## `./showcase --run`
 
 <div align="center">
 
@@ -42,7 +44,7 @@ I’m a B.Tech Computer Science & Engineering student who enjoys turning what I 
 
 </div>
 
-## Featured projects
+## `ls ./projects`
 
 | Project | What it does | Stack / status |
 | --- | --- | --- |
@@ -55,13 +57,13 @@ I’m a B.Tech Computer Science & Engineering student who enjoys turning what I 
 | [Tic-Tac-Toe](https://github.com/samirlevate8788-creator/tic-tac-toe) | Responsive game with player-versus-player and player-versus-computer modes. | HTML · CSS · JavaScript |
 | [Personal portfolio](https://github.com/samirlevate8788-creator/portfolio) | Portfolio website for my projects and developer profile. | [Live portfolio](https://samir-portfolio-ten.vercel.app/) |
 
-## In progress and upcoming
+## `roadmap --current`
 
 - **Cricket Universe — in progress:** my first 3D cricket game project, built with Unity and C# for Android and PC. The roadmap includes batting and bowling, ball physics, AI opponents, stadiums, tournaments, and career progression. These are project goals, not completed features. [Follow project updates on LinkedIn](https://www.linkedin.com/in/samir-levate).
 - **AstraOS — in progress:** an educational, modular 64-bit OS learning project. The roadmap explores a bootloader, kernel, memory management, scheduler, filesystem, drivers, shell, GUI, and networking; these components are planned learning work.
 - **AegisOne — next phase:** continue improving the defensive risk platform and its security-analysis experience. [Current project](https://github.com/samirlevate8788-creator/AegisOne) · [Live demo](https://aegisone-frontend.onrender.com).
 
-## Skills and tools
+## `skills --all`
 
 These reflect project work, coursework, certificates, and areas I’m actively learning.
 
@@ -76,7 +78,7 @@ These reflect project work, coursework, certificates, and areas I’m actively l
 | Developer workflow | Git · GitHub · VS Code · Docker · Docker Compose · Pytest · GitHub Actions · Render |
 | Professional | Technical and content writing · copywriting · time management · communication · collaboration · networking · leadership |
 
-## Certifications
+## `certs --list`
 
 ### Certificates added to this profile
 
@@ -110,7 +112,7 @@ These reflect project work, coursework, certificates, and areas I’m actively l
 | AI Tools Workshop | United Latino Students Association | Dec 2025 |
 | AI-Powered Shopping Ads Certification | Google | Jan 2026 · expires Jan 2027 |
 
-## Connect
+## `connect --secure`
 
 - [LinkedIn](https://www.linkedin.com/in/samir-levate)
 - [Portfolio website](https://samir-portfolio-ten.vercel.app/)
