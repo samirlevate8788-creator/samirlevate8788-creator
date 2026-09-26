@@ -1,26 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-  <rect width="900" height="430" rx="18" fill="#0d1117"/>
-  <rect x="0" y="0" width="900" height="48" rx="18" fill="#161b22"/>
-  <circle cx="24" cy="24" r="7" fill="#ff5f56"/>
-  <circle cx="48" cy="24" r="7" fill="#ffbd2e"/>
-  <circle cx="72" cy="24" r="7" fill="#27c93f"/>
-  <text x="100" y="30" fill="#8b949e" font-family="monospace" font-size="15">samir@dev-terminal ~</text>
-
-  <text x="32" y="86" fill="#58a6ff" font-family="monospace" font-size="17">$ whoami</text>
-  <text x="32" y="114" fill="#c9d1d9" font-family="monospace" font-size="17">Samir Levate — B.Tech CSE Developer</text>
-
-  <text x="32" y="158" fill="#58a6ff" font-family="monospace" font-size="17">$ ./current-focus.sh</text>
-  <text x="32" y="190" fill="#7ee787" font-family="monospace" font-size="17">→ Software Engineering</text>
-  <text x="32" y="218" fill="#7ee787" font-family="monospace" font-size="17">→ Cybersecurity &amp; Linux</text>
-  <text x="32" y="246" fill="#7ee787" font-family="monospace" font-size="17">→ Backend &amp; APIs</text>
-  <text x="32" y="274" fill="#7ee787" font-family="monospace" font-size="17">→ AI / ML &amp; Open Source</text>
-
-  <text x="32" y="318" fill="#58a6ff" font-family="monospace" font-size="17">$ projects --active</text>
-  <text x="32" y="346" fill="#c9d1d9" font-family="monospace" font-size="17">AstraOS • AegisOne • SecureCheck</text>
-
-  <text x="32" y="392" fill="#8b949e" font-family="monospace" font-size="16">Build → Break → Debug → Learn → Ship</text>
-
-  <rect x="675" y="83" width="3" height="28" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Samir Levate ethical security terminal</title>
+  <desc id="desc">Terminal themed profile card with Samir's current learning focus, authorization-first security principles, and active projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b10"/>
+      <stop offset="1" stop-color="#071a18"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#36f08b" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#bg)" stroke="#24e88a" stroke-opacity=".82" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="356" rx="17" fill="url(#grid)"/>
+  <path d="M2 48H1198" stroke="#24e88a" stroke-opacity=".45"/>
+  <circle cx="28" cy="25" r="7" fill="#ff5f57"/>
+  <circle cx="52" cy="25" r="7" fill="#ffbd2e"/>
+  <circle cx="76" cy="25" r="7" fill="#24e88a"/>
+  <text x="104" y="31" fill="#a7c8c1" font-family="Consolas,Monaco,monospace" font-size="16">samir@github: ~/profile — ethical security terminal</text>
+  <text x="34" y="88" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="19">$ whoami</text>
+  <text x="226" y="88" fill="#e2f4ee" font-family="Consolas,Monaco,monospace" font-size="19">Samir Levate · B.Tech CSE student · software developer</text>
+  <text x="34" y="146" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="19">$ cat focus.txt</text>
+  <text x="226" y="146" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="19">Python · web development · defensive security · Linux · open source</text>
+  <text x="34" y="204" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="19">$ cat rules.txt</text>
+  <text x="226" y="204" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="19">Authorized environments only · build responsibly · document clearly</text>
+  <text x="34" y="262" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="19">$ git status --short</text>
+  <text x="264" y="262" fill="#bdebd7" font-family="Consolas,Monaco,monospace" font-size="19">AegisOne · AstraOS · Cricket Universe</text>
+  <text x="34" y="320" fill="#42f59b" filter="url(#glow)" font-family="Consolas,Monaco,monospace" font-size="19">samir@github:~$</text>
+  <rect x="218" y="301" width="12" height="25" rx="1" fill="#42f59b">
+    <animate attributeName="opacity" values="1;0.18;1" dur="1.15s" repeatCount="indefinite"/>
   </rect>
+  <text x="1164" y="335" fill="#43b8ff" font-family="Consolas,Monaco,monospace" font-size="12" text-anchor="end">BUILD · LEARN · SECURE · SHARE</text>
 </svg>
