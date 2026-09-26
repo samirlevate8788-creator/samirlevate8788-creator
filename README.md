@@ -34,12 +34,14 @@
   <img src="https://img.shields.io/badge/BASE-SOLAPUR%2C_INDIA-1689d4?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Solapur, India" />
 </p>
 
-### `dashboard --github`
+### `telemetry --public`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samirlevate8788-creator&show_icons=true&hide_border=true&bg_color=050b10&title_color=42f59b&text_color=c5ded3&icon_color=43b8ff&rank_icon=github" alt="GitHub contribution and repository stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirlevate8788-creator&layout=compact&hide_border=true&bg_color=050b10&title_color=42f59b&text_color=c5ded3" alt="Most used public repository languages" />
+  <img src="https://img.shields.io/github/followers/samirlevate8788-creator?style=flat-square&logo=github&label=followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/samirlevate8788-creator/samirlevate8788-creator?style=flat-square&logo=git&label=profile%20updated" alt="Profile repository last commit" />
 </p>
+
+<p align="center"><sub>GitHub’s native contribution graph and activity timeline below show the source-of-truth activity.</sub></p>
 
 ## `whoami`
 
