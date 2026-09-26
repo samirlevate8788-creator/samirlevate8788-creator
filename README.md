@@ -28,6 +28,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY_MODE-ETHICAL_%7C_AUTHORIZED-20c878?style=flat-square&logo=linux&logoColor=white" alt="Ethical and authorized security mode" />
+  <img src="https://img.shields.io/badge/BUILD-LEARN_IN_PUBLIC-101820?style=flat-square&logo=github&logoColor=white" alt="Build and learn in public" />
+  <img src="https://img.shields.io/badge/BASE-SOLAPUR%2C_INDIA-1689d4?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Solapur, India" />
+</p>
+
+### `dashboard --github`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samirlevate8788-creator&show_icons=true&hide_border=true&bg_color=050b10&title_color=42f59b&text_color=c5ded3&icon_color=43b8ff&rank_icon=github" alt="GitHub contribution and repository stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirlevate8788-creator&layout=compact&hide_border=true&bg_color=050b10&title_color=42f59b&text_color=c5ded3" alt="Most used public repository languages" />
+</p>
+
 ## `whoami`
 
 I’m a B.Tech Computer Science & Engineering student who enjoys turning what I learn into useful, documented projects. My interests include software engineering, web development, defensive cybersecurity, AI, Linux and systems, and open source.
