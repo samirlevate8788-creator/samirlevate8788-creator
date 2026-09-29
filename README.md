@@ -4,8 +4,8 @@
 
 <h1>Samir Levate</h1>
 
-<p><strong>B.Tech CSE student · Software developer · Ethical hacking learner</strong></p>
-<p>I learn by building: web applications, Python tools, defensive security projects, systems concepts, and games.</p>
+<p><strong>B.Tech CSE student · Software Developer · Full Stack · AI · Cybersecurity · Systems · Creative Technology</strong></p>
+<p>I learn by building: web applications, Python tools, AI and defensive-security projects, systems concepts, games, and creative digital content.</p>
 
 <a href="https://samir-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/samir-levate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -91,7 +91,20 @@ These reflect project work, coursework, certificates, and areas I’m actively l
 | AI and systems | AI tools · AI-assisted development · knowledge representation and reasoning coursework · Linux · operating-system concepts |
 | Game development | Unity · C# · 3D game systems and physics concepts · Android and PC targets |
 | Developer workflow | Git · GitHub · VS Code · Docker · Docker Compose · Pytest · GitHub Actions · Render |
+| Creative & media | Video editing · basic animation · motion graphics · visual storytelling · short-form content · presentation design · digital content |
 | Professional | Technical and content writing · copywriting · time management · communication · collaboration · networking · leadership |
+
+## `creative --show`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samirlevate8788-creator/samirlevate8788-creator/main/assets/profile-project-reel.gif" width="760" alt="Animated project showcase featuring Samir's software, AI and cybersecurity projects" />
+
+<sub>Animated project showcase · software · AI · cybersecurity · creative digital work</sub>
+
+</div>
+
+**Creative interests:** Video Editing · Basic Animation · Motion Graphics · Visual Storytelling · Short-form Content · Thumbnail/Visual Design · Presentation Design · Digital Content Creation
 
 ## `certs --list`
 
@@ -126,6 +139,14 @@ These reflect project work, coursework, certificates, and areas I’m actively l
 | Web Development with AI | Internshala Trainings | Jan 2026 |
 | AI Tools Workshop | United Latino Students Association | Dec 2025 |
 | AI-Powered Shopping Ads Certification | Google | Jan 2026 · expires Jan 2027 |
+
+## `focus --next`
+
+- Build production-quality software and full-stack applications.
+- Strengthen backend engineering, APIs, databases and system design.
+- Continue learning AI/ML, cybersecurity and Linux/system programming.
+- Explore video editing, animation and creative technology alongside software development.
+- Contribute to open-source projects and collaborate on real-world builds.
 
 ## `connect --secure`
 
